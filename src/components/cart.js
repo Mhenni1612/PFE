@@ -6,7 +6,7 @@ const Cart = () => (
     <Menu.Item as="a">
       <Icon  name="cart" /> Pannier
       <Label circular color="orange" floating>
-        22
+        5
       </Label>
     </Menu.Item>
   </Menu>
